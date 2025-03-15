@@ -32,6 +32,6 @@
     "webpack-dev-server": "^5.2.0"
   },
   "dependencies": {
-    "vixora": "^1.0.5"
+    "vixora": "^1.0.6"
   }
 }
