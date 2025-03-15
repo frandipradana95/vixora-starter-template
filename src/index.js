@@ -1,3 +1,5 @@
 import Vixora from "vixora";
+import App from "./app";
+import "./style.css";
 
-console.log(Vixora);
+Vixora.render(() => Vixora.createElement(App), document.getElementById("root"));
